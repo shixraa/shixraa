@@ -7,14 +7,12 @@
 
 
 - <a href="https://www.instagram.com/alwex.graphics/"><img src="https://img.shields.io/badge/instagram%20@alwex.graphicss-DD2476?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-- <a href="https://www.instagram.com/alwex.graphics/"><img src="https://img.shields.io/badge/discord%20@saviomartin.1694-344E86?style=for-the-badge&logo=discord&logoColor=white"/></a>
-- <a href="https://www.instagram.com/alwex.graphics/"><img src="https://img.shields.io/badge/twitter%20@saviomartin3-0D95E8?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-- <a href="https://awexhub.ml/"><img height="30px" src="https://img.shields.io/badge/My%20Website:%20savio.works-8E2DE2?style=for-the-badge&logo=google%20chrome&logoColor=white"/></a>
+- <a href="https://www.instagram.com/alwex.graphics/"><img src="https://img.shields.io/badge/discord%20@server.1694-344E86?style=for-the-badge&logo=discord&logoColor=white"/></a>
+- <a href="https://www.instagram.com/alwex.graphics/"><img src="https://img.shields.io/badge/twitter%20@shixraa-0D95E8?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+- <a href="https://awexhub.ml/"><img height="30px" src="https://img.shields.io/badge/My%20Website:%20awexhub.ml-8E2DE2?style=for-the-badge&logo=google%20chrome&logoColor=white"/></a>
 
 ![HTML5](https://img.shields.io/badge/html%205-grey?style=for-the-badge&logo=html5&logoColor=white&labelColor=8E2DE2)
 ![CSS3](https://img.shields.io/badge/css%203-grey?style=for-the-badge&logo=css3&logoColor=white&labelColor=8E2DE2)
-![materializecss](https://img.shields.io/badge/Materialize%20css-grey?style=for-the-badge&logo=google&logoColor=white&labelColor=8E2DE2)
-![git](https://img.shields.io/badge/-git-grey?style=for-the-badge&logo=git&logoColor=white&labelColor=8E2DE2)
 ![github](https://img.shields.io/badge/-github-grey?style=for-the-badge&logo=github&logoColor=white&labelColor=8E2DE2)
 <br>
 ![python](https://img.shields.io/badge/-python-grey?style=for-the-badge&logo=python&logoColor=white&labelColor=8E2DE2)
