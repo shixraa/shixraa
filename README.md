@@ -20,7 +20,7 @@
 
 
 
-<img align="center" src="https://github.com/saviomartin/saviomartin/blob/master/assets/git.png?raw=true"/>
+<img align="center" src="https://github.com/shixraa/shixraa/blob/main/image0-1-3-1-2-1-1-1-1-2-2-1-1-1-2-1-1-1-2-1-1-2-2-1-1-2-1-3-2-1-1-2-1-2-1-1-1-1.gif?raw=true"/>
 
 <img src="https://github-readme-stats.vercel.app/api?username=shixraa&show_icons=true&theme=radical&title_color=8E2DE2&text_color=fff&icon_color=8E2DE2">
 
