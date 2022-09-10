@@ -1,4 +1,5 @@
 <img align="center" src="https://github.com/shixraa/shixraa/blob/main/image0-2.gif?raw=true"/>
+
 - 🔭 I’m currently working on some projects
 - 🌱 I’m currently learning Frontend & Python
 - 💬 Ask me anything about Graphics Designing
