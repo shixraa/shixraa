@@ -22,11 +22,11 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=shixraa&show_icons=true&theme=radical&title_color=8E2DE2&text_color=fff&icon_color=8E2DE2">
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shixraa&theme=radical&title_color=8E2DE2&text_color=fff)
-
 <p align="right">
-<img align="center" src="https://github.com/shixraa/shixraa/blob/main/image0-2.gif?raw=true"/>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shixraa&theme=radical&title_color=8E2DE2&text_color=fff)
 </p>
+  
+<img align="center" src="https://github.com/shixraa/shixraa/blob/main/image0-2.gif?raw=true"/>
 
 <p align="center">
 <img src="https://visitor-badge.laobi.icu/badge?page_id=shixraa" id="counter">
