@@ -3,7 +3,7 @@
 
 
 - <a href="https://www.instagram.com/alwex.graphics/"><img src="https://img.shields.io/badge/instagram%20@alwex.graphicss-DD2476?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-- <a href="https://www.instagram.com/alwex.graphics/"><img src="https://img.shields.io/badge/discord server-344E86?style=for-the-badge&logo=discord&logoColor=white"/></a>
+- <a href="https:/https://discord.gg/HVpH3HtP8P/"><img src="https://img.shields.io/badge/discord server-344E86?style=for-the-badge&logo=discord&logoColor=white"/></a>
 - <a href="https://www.instagram.com/alwex.graphics/"><img src="https://img.shields.io/badge/twitter%20@shixraa-0D95E8?style=for-the-badge&logo=twitter&logoColor=white"/></a>
 - <a href="https://awexhub.ml/"><img height="30px" src="https://img.shields.io/badge/My%20Website:%20awexhub.ml-8E2DE2?style=for-the-badge&logo=google%20chrome&logoColor=white"/></a>
 
