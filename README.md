@@ -1,11 +1,3 @@
-<img align="center" src="https://github.com/shixraa/shixraa/blob/main/image0-2.gif?raw=true"/>
-
-- 🔭 I’m currently working on some projects
-- 🌱 I’m currently learning Frontend & Python
-- 💬 Ask me anything about Graphics Designing
-- 📫 How to reach me: shixraa@gmail.com
-- 😄 My website: https://awexhub.ml/
-- ⚡ Fun fact: I'm comming to teen
 
 <img align="center" src="https://github.com/shixraa/shixraa/blob/main/image0-2.gif?raw=true"/>
 
