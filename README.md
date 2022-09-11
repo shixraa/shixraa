@@ -23,9 +23,3 @@
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=shixraa&show_icons=true&theme=radical&title_color=8E2DE2&text_color=fff&icon_color=8E2DE2"/>
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shixraa&theme=radical&title_color=8E2DE2&text_color=fff"/>
   
-<img align="center" src="https://github.com/shixraa/shixraa/blob/main/image0-2.gif?raw=true"/>
-
-<p align="center">
-<img src="https://visitor-badge.laobi.icu/badge?page_id=shixraa" id="counter">
-</p>
-⭐️ From [shixraa](https://github.com/shixraa)
