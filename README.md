@@ -1,32 +1,18 @@
+<h1 align="center">Hi 👋, I'm Shixra</h1>
+<h3 align="center">A passionate graphic designer and developer.</h3>
 
-<img align="center" src="https://github.com/shixraa/shixraa/blob/main/image0-2.gif?raw=true"/>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shixraa&label=Profile%20views&color=0e75b6&style=flat" alt="shixraa" /> </p>
 
-
-- <a href="https://www.instagram.com/alwex.graphics/"><img src="https://img.shields.io/badge/instagram%20@alwex.graphicss-DD2476?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-- <a href="https://www.instagram.com/alwex.graphics/"><img src="https://img.shields.io/badge/discord server-344E86?style=for-the-badge&logo=discord&logoColor=white"/></a>
-- <a href="https://www.instagram.com/alwex.graphics/"><img src="https://img.shields.io/badge/twitter%20@shixraa-0D95E8?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-- <a href="https://awexhub.ml/"><img height="30px" src="https://img.shields.io/badge/My%20Website:%20awexhub.ml-8E2DE2?style=for-the-badge&logo=google%20chrome&logoColor=white"/></a>
-
-<img align="center" src="https://github.com/shixraa/shixraa/blob/main/image0-2.gif?raw=true"/>
-
-![HTML5](https://img.shields.io/badge/html%205-grey?style=for-the-badge&logo=html5&logoColor=white&labelColor=8E2DE2)
-![CSS3](https://img.shields.io/badge/css%203-grey?style=for-the-badge&logo=css3&logoColor=white&labelColor=8E2DE2)
-![github](https://img.shields.io/badge/-github-grey?style=for-the-badge&logo=github&logoColor=white&labelColor=8E2DE2)
-<br>
-![python](https://img.shields.io/badge/-python-grey?style=for-the-badge&logo=python&logoColor=white&labelColor=8E2DE2)
-
-
-
-
-<img align="center" src="https://github.com/shixraa/shixraa/blob/main/image0-2.gif?raw=true"/>
-
-<img src="https://github-readme-stats.vercel.app/api?username=shixraa&show_icons=true&theme=radical&title_color=8E2DE2&text_color=fff&icon_color=8E2DE2">
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shixraa&theme=radical&title_color=8E2DE2&text_color=fff)
-
-<img align="center" src="https://github.com/shixraa/shixraa/blob/main/image0-2.gif?raw=true"/>
-
-<p align="center">
-<img src="https://visitor-badge.laobi.icu/badge?page_id=shixraa" id="counter">
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://instagram.com/alwex.graphics" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="alwex.graphics" height="30" width="40" /></a>
+<a href="https://discord.gg/HVpH3HtP8P" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="HVpH3HtP8P" height="30" width="40" /></a>
 </p>
-⭐️ From [shixraa](https://github.com/shixraa)
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shixraa&show_icons=true&locale=en&layout=compact" alt="shixraa" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shixraa&show_icons=true&locale=en" alt="shixraa" /></p>
+
